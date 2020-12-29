@@ -1,0 +1,6 @@
+requests==2.25.1
+configparser==5.0.1
+wget==3.2
+pytest==6.2.1
+pytest-logger==0.5.1
+pytest-html==3.1.1
