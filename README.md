@@ -9,4 +9,5 @@ All the configurations are centralized in config.properties file. Kindly update 
 ## Project structure
       All the code is organized into folder 'tests' including the utils, model and results.
       The utilities has common functions like read/write file, OAuth1 & 2 authentication, GET/POST request handler and app properties
+      Test results shall be found in test_results.png
      
