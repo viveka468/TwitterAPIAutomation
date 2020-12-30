@@ -1,6 +1,8 @@
 # TwitterAPIAutomation
 ## RUN
+Install the dependencies via
 pip install -r requirements.txt
+
 Use the below command to run all the scripts
 python -m pytest tests/
 
