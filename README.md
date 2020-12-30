@@ -3,7 +3,7 @@
 Install the dependencies via
 pip install -r requirements.txt
 
-Use the below command to run all the scripts
+Use the below command to run all the scripts (tested in windows environment)
 python -m pytest tests/
 
 All the configurations are centralized in config.properties file. Kindly update the keys(client_id, client_secret,resource_owner_key,resource_owner_secret) before running the test scripts
